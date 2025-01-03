@@ -1,0 +1,21 @@
+section{
+  background-color: #4E4F97;
+  border:5px skyblue solid;
+  padding:30px;
+  margin:30px
+}
+footer{
+  background-color: #4E4F97;
+  border:5px skyblue solid;
+  
+  margin:30px
+}
+#ncyu{
+  position: absolute;
+  border: solid 5px gold;
+  top: 170px;
+  left:900px;
+}
+#ico{
+  width:300px;
+}
